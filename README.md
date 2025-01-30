@@ -1,4 +1,5 @@
 Xamtaga-to-English-Translation-Dataset
+
 This repository contains a parallel dataset for machine translation from Xamtaga to English. It includes sentence pairs from various domains, such as religion, education, media, and history, aimed at helping develop and evaluate machine translation systems for the Xamtaga language, which is considered a low-resource language.
 
 Dataset Overview
